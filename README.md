@@ -25,3 +25,5 @@ I'm a software engineer trying to venture into the cybersecurity field.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=wireless90&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Razali's github stats" />
 </a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wireless90&exclude_repo=PythonSMADiscountStrategy&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+
