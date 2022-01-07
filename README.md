@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there, I'm Razali! 👋
+### Hi there, I'm Razali, a Software Engineer at Ministry of Home Affairs. 👋
 
 
 Hi, I'm Mohd Razali, based in Singapore <img src="https://github.com/yammadev/flag-icons/blob/master/png/SG.png"/>.
